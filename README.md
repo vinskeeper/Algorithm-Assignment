@@ -47,4 +47,4 @@ Pastikan kamu sudah menginstal *compiler* C seperti **GCC**.
 
 1. Clone repositori ini:
    ```bash
-   git clone [https://github.com/username-kamu/nama-repo.git](https://github.com/username-kamu/nama-repo.git)
+   git clone https://github.com/vinskeeper/Algorithm-Assignment
